@@ -1,5 +1,5 @@
 # Nodejs template
-This branch contains template for Nodejs API server
+This branch contains template for Nodejs proxy API server.
 
 **Note: Replace this readme and package.json as per your use case** 
 
